@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/selectImageCar"
+        android:title="@string/selectImage"
+        android:orderInCategory="100"
+        android:icon="@drawable/select_image"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/cameraCar"
+        android:title="@string/camera"
+        android:orderInCategory="100"
+        android:icon="@drawable/camera"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:id="@+id/saveCar"
+        android:title="@string/save"
+        android:orderInCategory="100"
+        android:icon="@drawable/records"
+        app:showAsAction="ifRoom"
+        />
+</menu>

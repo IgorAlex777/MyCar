@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+<item
+    android:id="@+id/workFragment"
+    android:title="@string/TO_Car"
+    android:orderInCategory="100"
+    android:icon="@drawable/to_car"
+    app:showAsAction="ifRoom"
+    />
+    <item
+        android:id="@+id/repairFragment"
+        android:title="@string/repairCar"
+        android:orderInCategory="100"
+        android:icon="@drawable/repair"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/documentsFragment"
+        android:title="@string/docCar"
+        android:orderInCategory="100"
+        android:icon="@drawable/doc_car"
+        app:showAsAction="ifRoom"
+        />
+</menu>

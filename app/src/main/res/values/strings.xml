@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Мой автомобиль</string>
+    <string name="add_car">добавить автомобиль</string>
+    <string name="selectImage">галерея фото</string>
+    <string name="camera">камера</string>
+    <string name="save">сохранить</string>
+    <string name="inputNameCar">Bведите марку автомобиля *:</string>
+    <string name="inputModelCar">Введите модель автомобиля  *:</string>
+    <string name="yearCar">год выпуска:</string>
+    <string name="mileAge">пробег автомобиля:</string>
+    <string name="fuelCar"> топливо: </string>
+    <string name="VIN_Car">VIN*:</string>
+    <string name="addInfo">дополнительная информация:</string>
+    <string name="sizeWheel">размер колес:</string>
+    <string name="titleDialogDelete">удалить</string>
+    <string name="snackBar_text">поля со звездочками* должны быть заполнены</string>
+    <string name="snackBar_text_doc">поля со * должны быть заполнены\n и выбран документ</string>
+    <string name="TO_Car">ТО авто</string>
+    <string name="TO_Ab">ТО</string>
+
+    <string name="repairCar">ремонт авто</string>
+    <string name="repairAB">ремонт</string>
+    <string name="docCar">документы</string>
+    <string name="editCar">редактировать</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nameWorkCar">введите название ТО*:</string>
+    <string name="mainWorksCar">основные работы*:</string>
+    <string name="additionWorksCar">дополнительные работы:</string>
+    <string name="priceWorks">стоимость работ:</string>
+    <string name="mileAgeWorks">пробег автомобиля*:</string>
+    <string name="add_work">добавить ТО</string>
+    <string name="nameRepair">введите название ремонта*:</string>
+    <string name="textRepair">ремонтные работы*:</string>
+    <string name="titleDoc">введите название документа*:</string>
+    <string name="pdfSelect">выбор pdf файл</string>
+    <string name="shareDocument">отправить документ</string>
+    <string name="notRecords">нет записей</string>
+    <string name="photo">фото</string>
+    <string name="text">текст</string>
+</resources>
